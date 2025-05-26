@@ -18,24 +18,6 @@
 
 
 # 🗂️ 폴더 구조 예시
-text
-coding-test/
-├── README.md
-├── baekjoon/
-│   ├── 1000.py
-│   ├── 1001.py
-│   └── ...
-├── programmers/
-│   ├── level1/
-│   │   ├── 12903.py
-│   │   └── ...
-│   └── level2/
-│       └── ...
-├── leetcode/
-│   ├── 1_TwoSum.py
-│   └── ...
-└── etc/
-    └── ...
 - baekjoon/ : 백준(BOJ) 문제 풀이
 - programmers/ : 프로그래머스 문제 풀이 (난이도별 폴더)
 - etc/ : 기타 문제 풀이(과제)
