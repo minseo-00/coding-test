@@ -1,2 +1,53 @@
-# coding-test
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Coding Test Practice
+코딩 테스트 준비를 위한 알고리즘 문제 풀이 및 자료구조 연습 저장소입니다.
+다양한 온라인 저지(백준, 프로그래머스, LeetCode 등)에서 출제된 문제를 직접 풀고, 풀이 과정을 기록합니다.
+
+---
+
+# 📚 프로젝트 개요
+- 목적:
+코딩 테스트와 알고리즘 실력 향상을 위해 문제 풀이를 꾸준히 기록합니다.
+
+- 주요 특징:
+  - 다양한 언어(Python, Java, C++ 등)로 풀이
+  - 문제별로 폴더 및 파일을 체계적으로 관리
+  - 풀이 과정, 접근 방법, 배운 점을 주석 및 마크다운으로 정리
+
+
+---
+
+
+# 🗂️ 폴더 구조 예시
+text
+coding-test/
+├── README.md
+├── baekjoon/
+│   ├── 1000.py
+│   ├── 1001.py
+│   └── ...
+├── programmers/
+│   ├── level1/
+│   │   ├── 12903.py
+│   │   └── ...
+│   └── level2/
+│       └── ...
+├── leetcode/
+│   ├── 1_TwoSum.py
+│   └── ...
+└── etc/
+    └── ...
+- baekjoon/ : 백준(BOJ) 문제 풀이
+- programmers/ : 프로그래머스 문제 풀이 (난이도별 폴더)
+- etc/ : 기타 문제 풀이(과제)
+
+---
+
+
+# 💡 문제 풀이 방식
+문제를 읽고, 접근 방법 및 사용 알고리즘을 고민
+
+---
+
+# 🚀 목표
+- 매일 최소 1문제 이상 풀이 및 커밋
+- 자주 틀리는 유형, 헷갈리는 알고리즘은 따로 정리
